@@ -1,5 +1,3 @@
-Here’s a detailed explanation of an app designed to track daily water intake, suitable for a GitHub README file:
-
 ---
 
 # Daily Water Intake Tracker – Hydration Monitoring Application
